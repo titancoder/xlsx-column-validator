@@ -1,0 +1,1 @@
+# xlsx-column-validator
